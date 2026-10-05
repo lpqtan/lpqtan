@@ -1,4 +1,4 @@
-# Hi, I'm Lex 👋
+# Hello, I'm Lex 
 
 I'm a Computer Science undergrad at **Nanyang Technological University (NTU)**, pursuing a B.Eng (Computer Science) and M.Sc. Technology Management as a **REP Scholar**. I recently wrapped up an exchange year at **UC Berkeley** (GLOBE programme).
 
